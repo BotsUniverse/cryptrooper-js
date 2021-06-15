@@ -1,0 +1,29 @@
+{
+  "name": "cryptrooper",
+  "version": "1.0.1b",
+  "description": "A mirror module of cryptrooper.py in pypi.org",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sprin-g-reen/cryptrooper-js.git"
+  },
+  "keywords": [
+    "crypto",
+    "cryptrooper",
+    "encode",
+    "decode",
+    "cryptography"
+  ],
+  "author": "Parvat R",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sprin-g-reen/cryptrooper-js/issues"
+  },
+  "homepage": "https://github.com/sprin-g-reen/cryptrooper-js#readme",
+  "dependencies": {
+    
+  }
+}
